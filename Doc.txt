@@ -3,7 +3,7 @@ software -set of  program which is  perform specific tasks devoleped by multiple
 
 
 program -set of instruction.
-
+code change
 
 
 SDLC- soft devp life cycle
