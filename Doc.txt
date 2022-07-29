@@ -1,0 +1,16 @@
+software -set of  program which is  perform specific tasks devoleped by multiple
+ developer based on customer requirement.
+
+
+program -set of instruction.
+
+
+
+SDLC- soft devp life cycle
+
+requirement
+design
+codeing
+testing
+deploy
+
